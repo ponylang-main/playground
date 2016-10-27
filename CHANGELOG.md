@@ -6,6 +6,7 @@ All notable changes to the Pony compiler and standard library will be documented
 
 ### Fixed
 
+- Revert "Re-removed the stupid line in the README" (PR #5)
 - Restored the stupid line in the README (PR #3)
 - Restored the stupid line in the README (PR #3)
 - Avoid crashy-crashy :boom:-:boom: (PR #1)
@@ -16,6 +17,7 @@ All notable changes to the Pony compiler and standard library will be documented
 
 ### Added
 
+- Revert "Re-removed the stupid line in the README" (PR #5)
 - Runtime function `pony_send_next`. This function can help optimise some message sending scenarios.
 
 ### Changed
