@@ -388,3 +388,4 @@ All notable changes to the Pony compiler and standard library will be documented
 - Cycle detector view_t structures are now reference counted.
 
 :heart:
+:heart:
