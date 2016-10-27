@@ -6,6 +6,7 @@ All notable changes to the Pony compiler and standard library will be documented
 
 ### Fixed
 
+- Revert "Revert "Re-removed the stupid line in the README"" (PR #6)
 - Revert "Re-removed the stupid line in the README" (PR #5)
 - Restored the stupid line in the README (PR #3)
 - Restored the stupid line in the README (PR #3)
