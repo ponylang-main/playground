@@ -386,3 +386,5 @@ All notable changes to the Pony compiler and standard library will be documented
 - Handle circular package dependencies.
 - Fixed ponyc options issue related to named long options with no arguments
 - Cycle detector view_t structures are now reference counted.
+
+:heart:
