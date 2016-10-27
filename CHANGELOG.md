@@ -8,6 +8,7 @@ All notable changes to the Pony compiler and standard library will be documented
 
 - Avoid crashy-crashy :boom:-:boom: (PR #1)
 - Avoid crashy-crashy :boom:-:boom: (PR #1)
+- Avoid crashy-crashy :boom:-:boom: (PR #1)
 - Avoid crashy-crashy :boom:-:boom: (#1)
 - Link the correct version of `libponyrt` when compiling with `--pic` on Linux (issue #1359)
 
