@@ -6,6 +6,7 @@ All notable changes to the Pony compiler and standard library will be documented
 
 ### Fixed
 
+- Restored the stupid line in the README (PR #3)
 - Avoid crashy-crashy :boom:-:boom: (PR #1)
 - Avoid crashy-crashy :boom:-:boom: (PR #1)
 - Avoid crashy-crashy :boom:-:boom: (PR #1)
